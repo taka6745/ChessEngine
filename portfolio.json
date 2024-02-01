@@ -1,0 +1,9 @@
+{
+    "title": "Chess Engine Optimisation",
+    "description": "This project adapts Tom Kerrigan's Simple Chess Program (TSCP) for macOS and extends it for use with the ESP32 microcontroller, enabling parallel processing for interactive gameplay on a physical chessboard. It aims to merge classic chess programming with modern hardware, offering an enhanced, real-time chess-playing experience.",
+    "type": "Game",
+    "photo": "https://static8.depositphotos.com/1036174/843/i/450/depositphotos_8432927-stock-illustration-pawns-merged-with-gears.jpg",
+    "tags": "C#, Algorithms, Hardware",
+    "related_projects": "Chess Game, Chess.com Scraper"
+}
+
